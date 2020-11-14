@@ -1,0 +1,13 @@
+ul {
+    font-family: Arial;
+    line-height: 1.5;
+}
+ol {
+    line-height: 1.7;
+}
+dl {
+    line-height: 2;
+}
+ul li{
+    list-style-type: square;
+}

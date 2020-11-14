@@ -1,0 +1,11 @@
+input{
+   font-family: monospace; 
+   color:black;
+   background-color: gray;
+}
+.text {
+    font-size: 10px;
+}
+input:checked + span{
+    background: rgb(130, 185, 218);
+}

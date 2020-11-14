@@ -1,0 +1,63 @@
+form {
+    background-color:rgb(231, 15, 33);
+    border: 10px solid rgb(70, 70, 70);
+    width: 500px;
+    height: 550px;
+    text-align: center;
+    margin: 0 auto;
+}
+.q{ 
+    color: honeydew;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Helvetica;
+    margin-bottom: -40px;
+    margin-top: -2px;
+} 
+.w {
+    color: honeydew;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: 1000;
+    margin-bottom: -10px;
+}
+.e {
+    color: honeydew;
+    font-family: Georgia;
+}
+.r{
+background-color: rgba(148, 17, 17, 0.575);
+width: 450px;
+height: 50px;
+border: 0px;
+}
+.t {
+    background-color: rgba(148, 17, 17, 0.575);
+    width: 450px;
+    height: 50px;
+    border: 0px;  
+}
+select {
+    background-color: rgba(148, 17, 17, 0.575);
+    color: honeydew;
+    width: 455px;
+    height: 55px;
+    border: 0px;  
+}
+textarea {
+    background-color: rgba(148, 17, 17, 0.575);
+    width: 455px;
+    height: 110px;
+    border: 0px; 
+}
+::placeholder {
+    color: honeydew;
+}
+.p {
+    background-color: honeydew;
+    width: 455px;
+    height: 55px;
+    font-size: 20px;
+    border: 1px;
+    color: rgba(148, 17, 17, 0.575); ;
+}
