@@ -1,0 +1,74 @@
+form {
+    border-left: 2px solid orange;
+    border-right: 2px solid orange;
+    border-bottom: 2px solid orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.menu {
+    float: left;
+    list-style: none;
+    line-height: 62px;
+}
+a {
+    text-decoration: none;
+    position:relative; 
+    border: none;
+}
+.dpb {
+    background: orange;
+    padding: 17px 15px;
+    top: -5px;
+    color: white;
+}
+.verh {
+    background: orange;
+    padding-left: 0px;
+    height: 51px;
+    margin: 0; 
+}
+
+.dpb1 {
+    background: white;
+    padding: 17px 15px;
+    top: -5px;
+    color: orange;
+}
+h1 {
+    color: #9e5920;
+    text-align: center;
+}
+h2 {
+    color: #9e5920;
+    text-align: center;
+}
+p {
+    text-indent: 5%;
+    padding-left: 1%;
+    color: rgb(221, 158, 21);
+    font-weight: 600;
+    line-height: 28px;
+    text-align: justify;
+    padding-right: 1%;
+}
+b {
+    color: rgb(192, 140, 27);
+    text-decoration: underline;
+}
+.dop {
+    position: relative;
+    list-style: none;
+
+}
+.dpa {
+    padding: 0px 10px ;
+    color: #9e5920;
+    font-weight: 600;
+    margin: 0;
+}
+.niz {
+    text-align: center;
+    padding-top: 1%;
+}
